@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TITIDAMIRO
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Product Analytics
-- 💞️ I’m looking to collaborate on Product Analytics
+- 🌱 I’m currently a Data Analyst
+- 💞️ I’m looking to collaborate on Data Analytics
 - 📫 How to reach me titilayodamiro@gmail.com
 
 <!---
